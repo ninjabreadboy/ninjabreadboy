@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 
+![minecraft guy](https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png)
+
 - 🔭 I’m currently working on NERD STUFF
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
